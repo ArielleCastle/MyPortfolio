@@ -18,11 +18,9 @@ import projects16Image from '../assets/ui-1.png'
 import projects17Image from '../assets/ui-2.png'
 import projects18Image from '../assets/ui-3.png'
 import projects19Image from '../assets/ui-4.png'
-import projects20Image from '../assets/f-1.png'
+import projects20Image from '../assets/ui-5.png'
 
-import projects21Image from '../assets/ui-5.png'
-
-
+import projects21Image from '../assets/f-1.png'
 
 // FRONT END PROJECTS
 export const projects = [
@@ -31,7 +29,7 @@ export const projects = [
     category: 'Web', 
     description: 'The official, restricted-access website for Marlboro in the Philippines', 
     tags: ['PHP 8.1','JavaScript' ,'Vue','SCSS','HTML','Laravel Nova 4','MySQL','Docker'], 
-    image: projects20Image, href: 'https://www.marlboro.com.ph/',
+    image: projects21Image, href: 'https://www.marlboro.com.ph/',
     overview: 'The official, restricted-access website for Marlboro in the Philippines', 
     role: 'FrontendDeveloper — frontend implementation, translating operational requirements into practical and user-friendly screens.',  },
     
