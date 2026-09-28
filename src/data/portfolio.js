@@ -86,7 +86,7 @@ export const projects = [
     category: 'Web', 
     description: 'A website dedicated to showcasing artworks (status: work in progress)', 
     tags: ['JavaScript', 'HTML', 'CSS', 'PHP', 'Product design'], 
-    image: projects5Image, href:'https://www.canva.com/design/DAGwr3DzZ1I/azNvl11mttLsqPXHcUEZUQ/edit',
+    image: projects5Image, href:'https://ariellecastle.github.io/ACPAINTS-MAIN/',
     overview: 'A website dedicated to showcasing artworks (status: work in progress)', 
     problem: 'Artists and art enthusiasts need a dedicated space where artworks can be presented in a visually engaging way without overwhelming the artwork itself.', 
     solution: 'Creating a minimal, gallery-inspired web experience centered around visual storytelling, allowing artworks to take focus while keeping browsing intuitive and immersive.', 
